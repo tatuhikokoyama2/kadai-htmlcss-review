@@ -2,10 +2,13 @@
 
 header{
     width: 1000pt;
+    margin-bottom: -12pt;
+    padding: 0;
     background-color: #ffcccc;
 }
 
 #wrapper{
+    width: 1000pt;
     display: flex;
 }
 
@@ -21,5 +24,6 @@ header{
 
 footer{
     width: 1000pt;
+    margin-top: -12pt;
     background-color: #ffccff;
 }
