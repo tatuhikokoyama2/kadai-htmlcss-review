@@ -1,13 +1,12 @@
 @charset "UTF-8";
 
 header{
-    width: 1000pt;
-    margin-bottom: -12pt;
+    width: 1000px;
     background-color: #ffcccc;
 }
 
 #wrapper{
-    width: 1000pt;
+    width: 1000px;
     display: flex;
 }
 
@@ -22,7 +21,6 @@ header{
 }
 
 footer{
-    width: 1000pt;
-    margin-top: -12pt;
+    width: 1000px;
     background-color: #ffccff;
 }
